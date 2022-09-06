@@ -3,4 +3,5 @@ This is a two player game, where each player will get a chance one after the oth
 
 # Output Result
 
+![VN20220906_143751](https://user-images.githubusercontent.com/112925756/188597219-c494ecdc-4d05-454d-a9b1-d76833c2d3f2.gif)
 
